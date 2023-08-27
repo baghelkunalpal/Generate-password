@@ -1,6 +1,6 @@
 # Generate-password
 
-- This is the small project for the frontend porpose this hard and advance stuffs
+- This is the small project for the frontend porpose to get the knowledge 
 - In this project we can generate the random password and also set the slider
 - it have slider for 1 to 20 words password we can generate .
 - we also generate in UpperCase
